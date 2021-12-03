@@ -1,0 +1,5 @@
+a. salah, karena terdapat method void yang tidak melakukan pengembalian nilai (return value)
+b. salah, karena method dapat disesuaikan dengan kebutuhan, perlu menerima paramter atau tidak
+c. salah, method dapat menerima jenis parameter apapun, dan mengembalikan value sesuai dengan tipe methodnya. contohnya : method bertipe double dapat menerima data dengan parameter int dan mengembalikan value double
+d. benar, method dapat menerima banyak parameter sesuai kebutuhan
+e. salah, setiap method hanya menghasilkan 1 nilai kembalian
